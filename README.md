@@ -4,7 +4,7 @@ Because sometimes I don't want to buy 3 different product, I just want the one I
 
 ## Usage
 Navigate to an item that is part of a bundle:  
-![image](https://github.com/user-attachments/assets/107faa21-2fc2-41a3-9e5b-fe767a5000b2)
+![image](https://github.com/user-attachments/assets/107faa21-2fc2-41a3-9e5b-fe767a5000b2)  
 Click on the bookmarklet to convert the page from the bundle page to the actual product page:  
 ### Before
 ![image](https://github.com/user-attachments/assets/afd46b63-d26c-47e4-86a7-3dc0aeac97ce)
